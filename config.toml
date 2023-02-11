@@ -5,7 +5,7 @@ paginate = 8
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
 [params]
-    brand = "Narrator"                      # name of your site - appears in the sidebar
+    brand = "01kloud"                      # name of your site - appears in the sidebar
     #brand_image = "static/images/"    # path to the image shown in the sidebar
     description = "Narrating the cloud..."
     dark_mode = true                      # optional - defaults to false
